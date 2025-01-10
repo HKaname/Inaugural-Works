@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88D02E08-AD70-4BB4-83C2-7B2D32260DE6}|Inaugural Works.vcxproj|C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\DrawPixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{88D02E08-AD70-4BB4-83C2-7B2D32260DE6}|Inaugural Works.vcxproj|solutionrelative:DrawPixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{88D02E08-AD70-4BB4-83C2-7B2D32260DE6}|Inaugural Works.vcxproj|C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88D02E08-AD70-4BB4-83C2-7B2D32260DE6}|Inaugural Works.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D02E08-AD70-4BB4-83C2-7B2D32260DE6}|Inaugural Works.vcxproj|C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\DxLib_Setup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88D02E08-AD70-4BB4-83C2-7B2D32260DE6}|Inaugural Works.vcxproj|solutionrelative:DxLib_Setup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D02E08-AD70-4BB4-83C2-7B2D32260DE6}|Inaugural Works.vcxproj|C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\Effekseer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88D02E08-AD70-4BB4-83C2-7B2D32260DE6}|Inaugural Works.vcxproj|solutionrelative:Effekseer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +30,40 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Effekseer.h",
+              "DocumentMoniker": "C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\Effekseer.h",
+              "RelativeDocumentMoniker": "Effekseer.h",
+              "ToolTip": "C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\Effekseer.h",
+              "RelativeToolTip": "Effekseer.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-10T02:56:06.194Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DrawPixel.cpp",
-              "DocumentMoniker": "C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\DrawPixel.cpp",
-              "RelativeDocumentMoniker": "DrawPixel.cpp",
-              "ToolTip": "C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\DrawPixel.cpp",
-              "RelativeToolTip": "DrawPixel.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-10T01:04:11.06Z",
+              "WhenOpened": "2025-01-10T02:47:08.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DxLib_Setup.h",
+              "DocumentMoniker": "C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\DxLib_Setup.h",
+              "RelativeDocumentMoniker": "DxLib_Setup.h",
+              "ToolTip": "C:\\Users\\ougi2\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Inaugural Works\\DxLib_Setup.h",
+              "RelativeToolTip": "DxLib_Setup.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-10T02:39:50.309Z",
               "EditorCaption": ""
             }
           ]
